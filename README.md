@@ -3,6 +3,7 @@
 Official website of Pablo Interactive, hosted on GitHub Pages.
 
 ## Pages
+- Turkish pages at the root, English pages under `en/`
 - `index.html` — Home (games, about, contact)
 - `block-rush.html` — Block Rush game page
 - `privacy-policy.html` — Privacy Policy (use this URL in Google Play Console)
