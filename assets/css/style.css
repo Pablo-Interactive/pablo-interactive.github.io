@@ -700,3 +700,6 @@ tr:last-child td { border-bottom: none; }
   .reveal { opacity: 1; transform: none; }
   html { scroll-behavior: auto; }
 }
+
+a.tag { transition: filter .2s, transform .2s; }
+a.tag:hover { color: #fff; filter: brightness(1.15); transform: translateY(-1px); }
